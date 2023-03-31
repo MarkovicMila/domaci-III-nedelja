@@ -1,0 +1,29 @@
+ID :  1
+Naziv: mleko
+Cena : 120.2
+kolicina: 115
+--------------------------------------------------
+ID :  2
+Naziv: hleb
+Cena : 55.0
+kolicina: 4
+Opis: budjav
+--------------------------------------------------
+ID :  3
+Naziv: cigarete
+Cena : 340.0
+kolicina: 45
+Opis: Heets
+--------------------------------------------------
+ID :  4
+Naziv: cigarete
+Cena : 380.0
+kolicina: 15
+Opis: Malboro
+--------------------------------------------------
+ID :  5
+Naziv: voda
+Cena : 17.0
+kolicina: 75
+Opis: kisela
+--------------------------------------------------
